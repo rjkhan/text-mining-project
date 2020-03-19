@@ -1,1 +1,1 @@
-# text-mining-project
+# Sentimental Analysis of Amazon Product Reviews Using Machine Learning Approach.
